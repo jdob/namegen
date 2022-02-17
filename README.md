@@ -1,0 +1,1 @@
+Simple library and CLI tool for generating random names, created by randomly concatenating an adjective and a noun.
